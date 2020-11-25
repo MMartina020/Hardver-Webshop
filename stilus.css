@@ -1,0 +1,16 @@
+header{
+    color: bisque;
+    font-family: fantasy;
+    margin: auto;
+    width: 15%;
+    padding: 10px;
+    text-shadow: 2px 2px 5px rgb(110, 82, 177);
+    transform: scaleX(3.5);
+    position: static;
+}
+
+body {
+   background-image: url(kepek/keep.jpg);
+   background-repeat: no-repeat;
+   padding: 10px;
+}
